@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anmolpandey2664/LeetCode/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/anmolpandey2664/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -43,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/anmolpandey2664/LeetCode/tree/master/0055-jump-game) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anmolpandey2664/LeetCode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anmolpandey2664/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anmolpandey2664/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
