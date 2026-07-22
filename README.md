@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anmolpandey2664/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/anmolpandey2664/LeetCode/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/anmolpandey2664/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anmolpandey2664/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/anmolpandey2664/LeetCode/tree/master/0041-first-missing-positive) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anmolpandey2664/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/anmolpandey2664/LeetCode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
