@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anmolpandey2664/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anmolpandey2664/LeetCode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/anmolpandey2664/LeetCode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/anmolpandey2664/LeetCode/tree/master/0055-jump-game) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anmolpandey2664/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anmolpandey2664/LeetCode/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anmolpandey2664/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anmolpandey2664/LeetCode/tree/master/0283-move-zeroes) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anmolpandey2664/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/anmolpandey2664/LeetCode/tree/master/0055-jump-game) |
 ## Math
 |  |
