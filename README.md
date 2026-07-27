@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anmolpandey2664/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anmolpandey2664/LeetCode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/anmolpandey2664/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/anmolpandey2664/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/anmolpandey2664/LeetCode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/anmolpandey2664/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anmolpandey2664/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anmolpandey2664/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anmolpandey2664/LeetCode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/anmolpandey2664/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anmolpandey2664/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anmolpandey2664/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/anmolpandey2664/LeetCode/tree/master/0392-is-subsequence) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anmolpandey2664/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/anmolpandey2664/LeetCode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/anmolpandey2664/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/anmolpandey2664/LeetCode/tree/master/0392-is-subsequence) |
@@ -67,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anmolpandey2664/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anmolpandey2664/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anmolpandey2664/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
