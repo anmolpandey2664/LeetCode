@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anmolpandey2664/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anmolpandey2664/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anmolpandey2664/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/anmolpandey2664/LeetCode/tree/master/0493-reverse-pairs) |
 | [0724-find-pivot-index](https://github.com/anmolpandey2664/LeetCode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/anmolpandey2664/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anmolpandey2664/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0493-reverse-pairs](https://github.com/anmolpandey2664/LeetCode/tree/master/0493-reverse-pairs) |
 ## String
 |  |
 | ------- |
@@ -87,4 +89,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/anmolpandey2664/LeetCode/tree/master/0904-fruit-into-baskets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anmolpandey2664/LeetCode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anmolpandey2664/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anmolpandey2664/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anmolpandey2664/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anmolpandey2664/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anmolpandey2664/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
