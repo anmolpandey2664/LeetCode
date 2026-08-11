@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/anmolpandey2664/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/anmolpandey2664/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/anmolpandey2664/LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/anmolpandey2664/LeetCode/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/anmolpandey2664/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anmolpandey2664/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/anmolpandey2664/LeetCode/tree/master/0238-product-of-array-except-self) |
